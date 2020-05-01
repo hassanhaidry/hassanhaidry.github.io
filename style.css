@@ -1,0 +1,43 @@
+.header-1 {
+  
+  text-align: center;
+  background: #2463c8;
+  color: white;
+  margin-top: 10px;
+  padding: 1px;
+  
+}
+   .social{
+    
+    
+    font-size: 20px;
+  
+    margin-left: 0px;
+    
+    
+  }
+  a {
+    color: cornsilk;
+    margin: 13px;
+  }
+  
+  .para {
+    font-size: 0.8em;
+    padding: 3px;
+    
+  }
+  .bt {
+    font-size: .5em;
+    padding: 10px;
+  }
+
+  .navbar {
+  margin-top: 1px;
+  padding: 1px;
+  
+   
+  }
+.col-4  {
+color: blanchedalmond;
+font-size: 11px;
+}
